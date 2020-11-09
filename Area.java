@@ -1,4 +1,3 @@
-
 class Trapezoid {
     private double top;
     private double bottom;
